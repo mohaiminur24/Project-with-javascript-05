@@ -1,0 +1,10 @@
+Project with Javascript Langugae with All screen responsive.
+Live website Link :
+Source code: 
+Project made by : HTML, Tailwind, JavaScript Language.
+
+Validation is done with JavaScript in the project:
+1. Clicking the discount button will not be allowed until the product is added.
+2. Discounts are awarded randomly between 5 to 20.
+3. After accepting the discount the discount button will be disabled. The disable button won't work until a new product is added.
+4. If you click buy now button, then product will be hidden from the store.
